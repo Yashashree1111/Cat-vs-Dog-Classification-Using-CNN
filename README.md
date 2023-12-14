@@ -24,3 +24,6 @@ Once the app is running, you can use the interface to upload images of cats and 
 The classification model in this project is built using a Convolutional Neural Network (CNN), a powerful architecture for image classification tasks. The model has been trained on a dataset of cat and dog images to learn the distinguishing features between the two classes.
 
 
+OUTPUT
+
+![Screenshot (785)](https://github.com/Yashashree1111/Cat-vs-Dog-Classification-Using-CNN/assets/106982749/b92e63a5-08ab-4e98-8350-4fae671a5138)
